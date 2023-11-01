@@ -6,7 +6,7 @@ def main():
     if name.lower() == 'marco':
         print('Ciao Marco')
     else:
-        print('Non sei il benvenuto')
+        print('Non sei il benvenuto.')
 
 
 # Execute
